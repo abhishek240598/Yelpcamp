@@ -1,0 +1,16 @@
+/* to make all images inside thumbnail width 100%*/
+.thumbnail img{
+  width:100%;
+}
+/* to make all thumbnail padding 0px */
+.thumbnail{
+  padding: 0px;
+}
+
+.thumbnail .caption-full{
+  padding: 9px;
+}
+
+#form-delete{
+  display: inline;
+}
